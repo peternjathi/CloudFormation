@@ -4,7 +4,7 @@
 
 ```
 ```
-#  Use CloudFormation to Launch an Amazon EC2 Web Server 
+#  Use CloudFormation to Launch an Amazon EC2 Web Server. 
 CloudFormation allows you to deploy resources at scale, more consistently and efficiently
 
 
