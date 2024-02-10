@@ -46,7 +46,7 @@ CloudFormation allows you to deploy resources at scale, more consistently and ef
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a full stack developer......
 
 
 ## 🔗 Links
